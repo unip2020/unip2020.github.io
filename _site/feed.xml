@@ -6,8 +6,8 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 07 Mar 2020 23:21:41 -0300</pubDate>
-    <lastBuildDate>Sat, 07 Mar 2020 23:21:41 -0300</lastBuildDate>
+    <pubDate>Sat, 07 Mar 2020 23:36:05 -0300</pubDate>
+    <lastBuildDate>Sat, 07 Mar 2020 23:36:05 -0300</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -50,13 +50,18 @@ no local, mapeamento dos produtos, mapeamento dos carrinhos, segurança automati
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;Servidor Cloud&lt;/strong&gt;
     &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://smi-2020.herokuapp.com/swagger-ui.html&quot; target=&quot;_blank&quot;&gt;Documentação das APIs&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://smi-2020.herokuapp.com/swagger-ui.html&quot; target=&quot;_blank&quot;&gt;Documentação das APIs.&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Linguagem de Programação JAVA&lt;/strong&gt;
     &lt;ul&gt;
       &lt;li&gt;&lt;a href=&quot;https://docs.oracle.com/javase/8/docs/api/&quot; target=&quot;_blank&quot;&gt;versão SE8.&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;https://spring.io/&quot; target=&quot;_blank&quot;&gt;Framework Springboot2.&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Banco de Dados&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.postgresql.org/&quot; target=&quot;_blank&quot;&gt;PostgreSQL.&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;

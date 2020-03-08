@@ -15,10 +15,12 @@ Esta ilha é o centro de todo o projeto, onde serão desenvolvidos serviços em 
 **Requisitos Não Funcionais:**
 
 * **Servidor Cloud**
-    * [Documentação das APIs](https://smi-2020.herokuapp.com/swagger-ui.html){:target="_blank"}
+    * [Documentação das APIs.](https://smi-2020.herokuapp.com/swagger-ui.html){:target="_blank"}
 * **Linguagem de Programação JAVA**
     * [versão SE8.](https://docs.oracle.com/javase/8/docs/api/){:target="_blank"}
     * [Framework Springboot2.](https://spring.io/){:target="_blank"}
+* **Banco de Dados**
+    * [PostgreSQL.](https://www.postgresql.org/){:target="_blank"}
 
 **Requisitos Funcionais:**
 
