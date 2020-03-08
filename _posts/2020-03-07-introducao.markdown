@@ -4,7 +4,7 @@ title:  "Introdução ao Projeto"
 date:   2020-03-07 22:11:25 -0300
 categories: jekyll update
 ---
-# **A Mudança de como fazer compras.**
+### **A Mudança de como fazer compras.**
 
 Mercado Inteligente consiste na evolução do que temos hoje como mercado, 
 visando a melhora da qualidade de como se fazer compras comuns na era atual,
