@@ -36,4 +36,9 @@ Esta ilha é o centro de todo o projeto, onde serão desenvolvidos serviços em 
 * **Mobile**
     * Mostrar localização de produtos.
     * Inserir, Alterar e Excluir Pedidos de Clientes.
-    * Adicionar, Alterar e Remover itens da lista de compras do Cliente.
+    * Adicionar, Alterar e Remover itens da lista de compras do Cliente
+
+### **Ilha de Mapeamento:**
+
+A área de mapeamento será responsável por capturar informações dos cliente externos(usuários comuns e possíveis compradores) e clientes internos(funcionários do estabelecimento), todos deverão se conectar a rede wireless do local, os dados capturados serão apenas informações sobre distancia(RSSI e subtração de ruídos) dos dispositivo moveis(ou qualquer outro dispositivo conectado a rede) para que sejá possível realizar a triangulação de distancia em relação as outras antenas e se tornar possível saber a localização exata do dispositivo.
+
