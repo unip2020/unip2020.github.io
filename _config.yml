@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: SMI Wiki
 description: Unip 2020 projeto SMI Wiki
-baseurl: "/home/" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://unip2020.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
