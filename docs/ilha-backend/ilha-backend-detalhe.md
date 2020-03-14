@@ -2,6 +2,7 @@
 layout: default
 title: Ilha Backend Detalhado
 parent: Ilha de Backend
+permalink: /backend/detalhe
 nav_order: 1
 ---
 
