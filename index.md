@@ -6,7 +6,7 @@ description: "Documentação da turme do 4º Ano de Ciência da Computação da 
 permalink: /
 ---
 
-# **A Mudança de como fazer compras.**
+# A Mudança de como fazer compras.
 
 Mercado Inteligente consiste na evolução do que temos hoje como mercado, 
 visando a melhora da qualidade de como se fazer compras comuns na era atual,
